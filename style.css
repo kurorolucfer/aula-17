@@ -1,0 +1,62 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    
+
+}
+.cabeca{
+    border-radius: 20px;
+    background-color: rgb(31, 30, 30) ;
+}
+h2{
+    color: yellow;
+}
+.imagem{
+    padding: 20px;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover{
+    color: red;
+}
+.corpo{
+    text-align: center;
+    background-color: rgb(31, 30, 30);
+    border-radius: 15px;
+    width: 500px;
+    height: 100%;
+   
+}
+.foto{
+    padding: 20px;
+    background-color: rgb(65, 64, 64);
+    border-radius: 15px;
+    text-align: center;
+    margin: 20px;
+}
+.mentor{
+    padding: 20px;
+    background-color: rgb(65, 64, 64);
+    border-radius: 15px;
+    text-align: center;
+    margin: 20px;
+    
+}
+.instagram{
+    padding: 20px;
+    background-color: rgb(65, 64, 64);
+    border-radius: 15px;
+    text-align: center;
+    margin: 20px;
+}
